@@ -27,6 +27,41 @@
       "password": "arjun123",
       "roll": "admin",
       "id": 4
+    },
+    {
+      "username": " ",
+      "email": " ",
+      "password": " ",
+      "roll": "user",
+      "id": 5
+    },
+    {
+      "username": "dennis",
+      "email": "dennis@gmail.com",
+      "password": "123",
+      "roll": "user",
+      "id": 6
+    },
+    {
+      "username": " ",
+      "email": " ",
+      "password": " ",
+      "roll": "user",
+      "id": 7
+    },
+    {
+      "username": " ",
+      "email": " ",
+      "password": " ",
+      "roll": "user",
+      "id": 8
+    },
+    {
+      "username": " ",
+      "email": " ",
+      "password": " ",
+      "roll": "user",
+      "id": 9
     }
   ]
 }
