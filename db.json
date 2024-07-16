@@ -1,4 +1,4 @@
-  {
+{
   "users": [
     {
       "username": "reshma",
@@ -29,6 +29,13 @@
       "id": 4
     }
   ],
-  "videos" :[]
-
+  "videos": [
+    {
+      "title": "Figma",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx28mg8aQ39CEGURVztotd5VC0bO7Ik-ZpBw&s",
+      "url": "https://www.youtube.com/embed/FTFaQWZBqQ8",
+      "id": 1
+    }
+  ],
+  "coursevideo" :[]
 }
