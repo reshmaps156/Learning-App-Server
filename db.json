@@ -1,4 +1,4 @@
-{
+  {
   "users": [
     {
       "username": "reshma",
@@ -27,34 +27,8 @@
       "password": "arjun123",
       "roll": "admin",
       "id": 4
-    },
-    {
-      "username": "anu",
-      "email": "anu111@gmail.com",
-      "password": "anu123",
-      "roll": "user",
-      "id": 5
     }
   ],
-  "videos": [
-    
-    {
-      "title": "Roadmap (Frontend)",
-      "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20201111215809/How-to-Become-a-Front-End-Developer-in-2020.png",
-      "url": "https://www.youtube.com/embed/Tef1e9FiSR0",
-      "id": 2
-    },
-    {
-      "title": "CSS Flexbox",
-      "image": "https://miro.medium.com/v2/resize:fit:1400/1*6tQt2ynxa3s9gyoxeyJDQQ.png",
-      "url": "https://www.youtube.com/embed/Zln40_7VVts",
-      "id": 3
-    },
-    {
-      "title": "React Toastify",
-      "image": "https://i.ytimg.com/vi/NHlExjLI-d0/maxresdefault.jpg",
-      "url": "https://www.youtube.com/embed/7CcAKre3Ifc",
-      "id": 4
-    }
-  ]
+  "videos" :[]
+
 }
