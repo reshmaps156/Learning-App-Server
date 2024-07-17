@@ -1,39 +1,11 @@
 {
   "users": [
     {
-      "username": "reshma",
-      "email": "reshmaps156@gmail.com",
-      "password": "reshma123",
-      "roll": "admin",
-      "id": 1
-    },
-    {
-      "username": "nissa",
-      "email": "nissa@gmail.com",
-      "password": "nissa123",
-      "roll": "admin",
-      "id": 2
-    },
-    {
-      "username": "Dennis",
-      "email": "dennis@gmail.com",
-      "password": "123456",
-      "roll": "admin",
-      "id": 3
-    },
-    {
-      "username": "arjun",
-      "email": "arjun123@gmail.com",
-      "password": "arjun123",
-      "roll": "admin",
-      "id": 4
-    },
-    {
-      "username": "dennis",
-      "email": "dennis@gmail.com",
+      "username": "mariya",
+      "email": "mariya2gmail.com",
       "password": "123",
       "roll": "user",
-      "id": 5
+      "id": 1
     }
   ],
   "videos": [
