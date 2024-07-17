@@ -27,6 +27,13 @@
       "password": "arjun123",
       "roll": "admin",
       "id": 4
+    },
+    {
+      "username": "dennis",
+      "email": "dennis@gmail.com",
+      "password": "123",
+      "roll": "user",
+      "id": 5
     }
   ],
   "videos": [
@@ -37,5 +44,30 @@
       "id": 1
     }
   ],
-  "coursevideo" :[]
+  "coursevideo": [
+    {
+      "title": "Java Script",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4XlURXRsnoqHaFZKzwVbXTGOUMnybhHz9eg&s",
+      "url": "https://www.youtube.com/embed/EerdGm-ehJQ",
+      "id": 1
+    },
+    {
+      "title": "Python",
+      "image": "https://ioflood.com/blog/wp-content/uploads/2023/09/Collage-of-Python-programming-aspects-syntax-libraries-Python-symbols-logo-300x300.jpg.webp",
+      "url": "https://www.youtube.com/embed/_uQrJ0TkZlc",
+      "id": 2
+    },
+    {
+      "title": "PHP",
+      "image": "https://kinsta.com/wp-content/uploads/2023/10/PHP_Feature-Image.jpg",
+      "url": "https://www.youtube.com/embed/m52ljs78S24",
+      "id": 3
+    },
+    {
+      "title": "Angular",
+      "image": "https://repository-images.githubusercontent.com/314186076/79a18fff-1aeb-4a12-9340-db81b383b5e7",
+      "url": "https://www.youtube.com/embed/k5E2AVpwsko",
+      "id": 4
+    }
+  ]
 }
