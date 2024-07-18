@@ -4,36 +4,43 @@
       "username": "reshma",
       "email": "reshmaps156@gmail.com",
       "password": "reshma123",
-      "roll": "admin",
+      "role": "admin",
       "id": 1
     },
     {
       "username": "nissa",
       "email": "nissa@gmail.com",
       "password": "nissa123",
-      "roll": "admin",
+      "role": "admin",
       "id": 2
-    },
-    {
-      "username": "Dennis",
-      "email": "dennis@gmail.com",
-      "password": "123456",
-      "roll": "admin",
-      "id": 3
-    },
-    {
-      "username": "arjun",
-      "email": "arjun123@gmail.com",
-      "password": "arjun123",
-      "roll": "admin",
-      "id": 4
     },
     {
       "username": "dennis",
       "email": "dennis@gmail.com",
-      "password": "123",
-      "roll": "user",
+      "password": "dennis123",
+      "role": "admin",
+      "id": 3
+    },
+    {
+      "username": "arjun",
+      "email": "arjun@gmail.com",
+      "password": "arjun123",
+      "role": "admin",
+      "id": 4
+    },
+    {
+      "username": "ajay",
+      "email": "ajay123@gmail.com",
+      "password": "ajay",
+      "role": "user",
       "id": 5
+    },
+    {
+      "username": "appu",
+      "email": "appu@gmail.com",
+      "password": "appu",
+      "role": "user",
+      "id": 6
     }
   ],
   "videos": [
@@ -42,6 +49,24 @@
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx28mg8aQ39CEGURVztotd5VC0bO7Ik-ZpBw&s",
       "url": "https://www.youtube.com/embed/FTFaQWZBqQ8",
       "id": 1
+    },
+    {
+      "title": "Java Script",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png",
+      "url": "https://www.youtube.com/embed/FNFg&t=389s",
+      "id": 2
+    },
+    {
+      "title": "Frontend Development",
+      "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20201111215809/How-to-Become-a-Front-End-Developer-in-2020.png",
+      "url": "https://www.youtube.com/embed/Tef1e9FiSR0",
+      "id": 3
+    },
+    {
+      "title": "CSS Flexbox",
+      "image": "https://miro.medium.com/v2/resize:fit:1400/1*6tQt2ynxa3s9gyoxeyJDQQ.png",
+      "url": "https://www.youtube.com/embed/Zln40_7VVts",
+      "id": 4
     }
   ],
   "coursevideo": [
